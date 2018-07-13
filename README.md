@@ -9,7 +9,7 @@ Dataset consists of images in ppm format in 43 different folders of different cl
 ****[DataPreparation.py](https://github.com/pranjulsingh/Traffic-Sign-Classification/blob/master/DataPreparation.py):****
    * Reads images from complete dataset.
    * Converts images to jpg format.
-   * Divides data in three different folders Teain, Validate and Test.<br>
+   * Divides data in three different folders Train, Validate and Test.<br>
 
 ****[DatasetCreation.py](https://github.com/pranjulsingh/Traffic-Sign-Classification/blob/master/DatasetCreation.py):****
    * Reads data from Train, Validate and Test folders.
@@ -30,7 +30,7 @@ Dataset consists of images in ppm format in 43 different folders of different cl
 ****[Train.py](https://github.com/pranjulsingh/Traffic-Sign-Classification/blob/master/Train.py)****
    * Batch Size 32
    * Epoch 10
-   * Decreasing learning rate
+   * Decreasing learning rate per epoch
    * Saves Logs in *logs/* directory
    * Saves model in *models/* directory
    * [Download model with the weight of 6<sup>th</sup> epoch](http://www.google.com)
