@@ -15,7 +15,7 @@ Dataset consists of images in ppm format in 43 different folders of different cl
    * Reads data from Train, Validate and Test folders.
    * Splits in X_train, y_train, X_validate, y_validate, X_test, y_test
    * Saves the numpy array in a file
-   [Download processed numpy file](www.google.com)<br>
+   [Download processed numpy file](https://drive.google.com/file/d/1NTCldg391pkCSlVeK0LOs_W5Ob3x2Pgt/view?usp=sharing)<br>
 
 ****[Model.py](https://github.com/pranjulsingh/Traffic-Sign-Classification/blob/master/Model.py):****
    * A Convolutional Neural Network Model
@@ -33,7 +33,7 @@ Dataset consists of images in ppm format in 43 different folders of different cl
    * Decreasing learning rate per epoch
    * Saves Logs in *logs/* directory
    * Saves model in *models/* directory
-   * [Download model with the weight of 6<sup>th</sup> epoch](http://www.google.com)
+   * [Download model with the weight of 6<sup>th</sup> epoch](https://drive.google.com/open?id=1OyDBfwjkUSQNgfFQJgsFxrbL28Yjg_8_)
 
 ****[Predict.py](https://github.com/pranjulsingh/Traffic-Sign-Classification/blob/master/Predict.py):****
    * Validation accuracy 99.15
